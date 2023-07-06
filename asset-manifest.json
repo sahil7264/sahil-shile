@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sahil-shile/static/css/main.b1f955fe.css",
+    "main.css": "/sahil-shile/static/css/main.cf850c23.css",
     "main.js": "/sahil-shile/static/js/main.cbfdfe05.js",
     "static/media/ecom.jpg": "/sahil-shile/static/media/ecom.0800ab981704f7c39734.jpg",
     "static/media/xyz.jpg": "/sahil-shile/static/media/xyz.0accb2d1a9e750f40fb3.jpg",
@@ -18,11 +18,11 @@
     "static/media/bootstrap.png": "/sahil-shile/static/media/bootstrap.268c4375260420e8d982.png",
     "static/media/bg.avif": "/sahil-shile/static/media/bg.9179bac8674fb2080be1.avif",
     "index.html": "/sahil-shile/index.html",
-    "main.b1f955fe.css.map": "/sahil-shile/static/css/main.b1f955fe.css.map",
+    "main.cf850c23.css.map": "/sahil-shile/static/css/main.cf850c23.css.map",
     "main.cbfdfe05.js.map": "/sahil-shile/static/js/main.cbfdfe05.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1f955fe.css",
+    "static/css/main.cf850c23.css",
     "static/js/main.cbfdfe05.js"
   ]
 }
