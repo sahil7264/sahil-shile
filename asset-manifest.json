@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/sahil-shile/static/css/main.11567cef.css",
-    "main.js": "/sahil-shile/static/js/main.abf3d785.js",
+    "main.css": "/sahil-shile/static/css/main.b1f955fe.css",
+    "main.js": "/sahil-shile/static/js/main.cbfdfe05.js",
+    "static/media/ecom.jpg": "/sahil-shile/static/media/ecom.0800ab981704f7c39734.jpg",
     "static/media/xyz.jpg": "/sahil-shile/static/media/xyz.0accb2d1a9e750f40fb3.jpg",
+    "static/media/profileList.png": "/sahil-shile/static/media/profileList.11fbdd862115a3d02487.png",
     "static/media/sahil1.png": "/sahil-shile/static/media/sahil1.6e507b1bd05e97a4eb80.png",
-    "static/media/img1.jpg": "/sahil-shile/static/media/img1.88cb2e9fa44f0cf1bb83.jpg",
+    "static/media/port.png": "/sahil-shile/static/media/port.2a1f353cc25283e1d098.png",
     "static/media/sahil.jpg": "/sahil-shile/static/media/sahil.5d44dfce8f85aa67eff8.jpg",
-    "static/media/img2.jpg": "/sahil-shile/static/media/img2.b5647761d42bbbed0bbc.jpg",
-    "static/media/img3.jpg": "/sahil-shile/static/media/img3.4cb134a1c45b9614e5ec.jpg",
-    "static/media/sahil_resume.pdf": "/sahil-shile/static/media/sahil_resume.3d64d9c7b747f30b582e.pdf",
+    "static/media/sahil_resume.pdf": "/sahil-shile/static/media/sahil_resume.9b2f683e1941d5435e73.pdf",
     "static/media/physics.png": "/sahil-shile/static/media/physics.86c8d9eba03e29814d2a.png",
     "static/media/nodejs.png": "/sahil-shile/static/media/nodejs.007e99f68b718e476aba.png",
     "static/media/database.png": "/sahil-shile/static/media/database.7d80683bfe5b544d78eb.png",
@@ -18,11 +18,11 @@
     "static/media/bootstrap.png": "/sahil-shile/static/media/bootstrap.268c4375260420e8d982.png",
     "static/media/bg.avif": "/sahil-shile/static/media/bg.9179bac8674fb2080be1.avif",
     "index.html": "/sahil-shile/index.html",
-    "main.11567cef.css.map": "/sahil-shile/static/css/main.11567cef.css.map",
-    "main.abf3d785.js.map": "/sahil-shile/static/js/main.abf3d785.js.map"
+    "main.b1f955fe.css.map": "/sahil-shile/static/css/main.b1f955fe.css.map",
+    "main.cbfdfe05.js.map": "/sahil-shile/static/js/main.cbfdfe05.js.map"
   },
   "entrypoints": [
-    "static/css/main.11567cef.css",
-    "static/js/main.abf3d785.js"
+    "static/css/main.b1f955fe.css",
+    "static/js/main.cbfdfe05.js"
   ]
 }
